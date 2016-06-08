@@ -8,5 +8,11 @@ namespace Coding_Standard
 {
     class Class_naming
     {
+        //class example
+        public class Setting
+        {
+        
+        }
+        
     }
 }
