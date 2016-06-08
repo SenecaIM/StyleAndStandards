@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Coding_Standard
+namespace CodingStandards
 {
-    class Iterations_and_Loops
+    public class Class1
     {
     }
 }
