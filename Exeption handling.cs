@@ -8,5 +8,6 @@ namespace Coding_Standard
 {
     class Exeption_handling
     {
+
     }
 }
