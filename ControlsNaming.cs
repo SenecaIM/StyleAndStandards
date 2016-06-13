@@ -19,12 +19,7 @@ namespace Coding_Standard
              //Actions
          }
          
-         
-         //Arrays examples:
-         
-         int[] numbers = new int[5] {1, 2, 3, 4, 5};
-         //or
-         string[] names = new string[3] {"Matt", "Joanne", "Robert"};
+         //Deppending on the purpose the control is for, the name will vary 
          
     }
 }
