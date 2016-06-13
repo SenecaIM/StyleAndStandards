@@ -6,7 +6,13 @@ using System.Threading.Tasks;
 
 namespace Coding_Standard
 {
-    class Iterations_and_Loops
+    class Class_naming
     {
+        //class example
+        public class Setting
+        {
+        
+        }
+        
     }
 }
