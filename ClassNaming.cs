@@ -14,5 +14,15 @@ namespace Coding_Standard
         
         }
         
+        
+        //Another example
+        private abstract class MyCleverEnum
+        {
+            
+        }
+        
+        //General rule: Classes should be named with a capital letter as the first letter
+        //Classes should apply to the right scope and not be longer than 2 pages to read, do not overcomplicate them.
+        
     }
 }
