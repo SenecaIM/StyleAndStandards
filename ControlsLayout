@@ -1,0 +1,32 @@
+Styles and standards of the controls layout in applications:
+
+The font used by Seneca Investment Managers in general is Microsoft Sans Serif.
+The size of the font will vary depending on the purpose.
+Gerenal size of the font will be 8.25pt.
+
+The controls spacing will also vary depending on the screen layout and purpose.
+
+General rules will include:
+
+-Control should be placed 3px off the left border of the form/screen/control to keep a little bit of space 
+between the control and the border of the form.
+
+-The space left between controls anchored to each other should equal to 6px or more depending on the control size.
+
+-The spacing between separated controls that serve different functions and purpose should be more than 20px 
+this is to keep the controls separated from each other so that the user is not confused using them 
+and they are clear to read.
+
+
+Colours and design patterns:
+
+-The colour of the font should be black unless there will be a meaning behind having a different coloured font
+
+-Colours purple and green should not be used as meaningful as these are the company colours and might cause
+design interferrence or bad look.
+
+-Colour red, yellow and green are not to be used unless meaning something.
+
+Consistency will be the key factor when it comes to creating or placing controls in Seneca Investment Managers systems.
+Users should not get confused when using controls, so the layout on the screen should be easy to use.
+
